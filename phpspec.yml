@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: alquilerdeAutos
+        psr4_prefix: alquilerdeAutos
+        src_path: app
